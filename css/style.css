@@ -33,3 +33,6 @@ body {
         -webkit-align-items: center;
         align-items: center;
     }
+    .custom-control {
+        margin-bottom: 5px;
+    }
